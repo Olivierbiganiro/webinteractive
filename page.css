@@ -1,0 +1,46 @@
+body{
+    background-color: azure;
+
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(47, 156, 170);
+    background-color: aqua;
+}
+button{
+    border-radius: 40px 40px 40px 40px;
+    font-size: 20px;
+    background-color: bisque;
+    border: 12px 12px 12px 12px;
+}
+.division{ 
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border: 3px;
+    height: 10cm;
+    background-color: rgb(204, 235, 224);
+    padding: 45px 25px 45px 75px;
+}
+.subivision{
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: left;
+    align-items: center;
+    border: 3px;
+    border-color:black;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+    width: 3cm;
+    height: 3cm;
+}
+#tdcolor{
+    background-color: blue;
+}
